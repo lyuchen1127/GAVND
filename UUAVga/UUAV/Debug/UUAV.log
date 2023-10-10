@@ -1,0 +1,12 @@
+﻿  data.cpp
+G:\蚁群算法\程序\UAV(2阶段)\ADV\data.cpp(77,40): warning C4244: “*=”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+G:\蚁群算法\程序\UAV(2阶段)\ADV\data.cpp(240,6): warning C4101: “cur_cap”: 未引用的局部变量
+G:\蚁群算法\程序\UAV(2阶段)\ADV\data.cpp(240,15): warning C4101: “cut_time”: 未引用的局部变量
+  main.cpp
+  pso.cpp
+  正在生成代码...
+  UUAV.vcxproj -> G:\蚁群算法\genggai\LPF\UUAV1.0\UUAV\Debug\UUAV.exe
